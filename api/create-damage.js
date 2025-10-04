@@ -4,7 +4,7 @@
 const ALLOWED_ORIGINS = [
   // Put your Softr domain(s) here:
   "https://trailmed.app",
-  "https://trailed.co.uk"
+  "https://trailmed.co.uk"
 ];
 
 function setCors(req, res) {
