@@ -17,11 +17,11 @@
 // Scopes: data.records:read, data.records:write
 // ------------------------------------------------------------
 
-const ALLOWED_ORIGINS = [
+// const ALLOWED_ORIGINS = [
   // Put your Softr domain(s) or custom domains here:
-  "https://yourapp.softr.app",
-  "https://your-custom-domain.com"
-];
+  // "https://yourapp.softr.app",
+ //  "https://your-custom-domain.com"
+// ];
 
 // --- CORS helpers ---
 function setCors(req, res) {
